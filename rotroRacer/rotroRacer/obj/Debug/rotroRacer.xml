@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+rotroRacer
+</name>
+</assembly>
+<members>
+<member name="T:rotroRacer.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_arena_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_choose_racer1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_choose_racer2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_details">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_enter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_left_arrow2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_left_arrow3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_options1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_selection_menu_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_selection_menu_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_ship_selection_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_ship_selection_title_55pt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_ship_selection_title_60pt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_ship_selection_title_65pt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_space_shuttle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_space_shuttle2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_space_shuttle21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_space_shuttle3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_space_shuttle31">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_space_shuttle4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_space_shuttle41">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_space_shuttle5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_space_shuttle6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_start_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.rotro_racer_start_image2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rotroRacer.My.Resources.Resources.space_03">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

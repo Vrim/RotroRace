@@ -1,0 +1,26 @@
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\bin\Debug\rotroRacer.exe.config
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\bin\Debug\rotroRacer.exe
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\bin\Debug\rotroRacer.pdb
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\bin\Debug\rotroRacer.xml
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\obj\Debug\rotroRacer.frmTitlescreen.resources
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\obj\Debug\rotroRacer.Resources.resources
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\obj\Debug\rotroRacer.vbproj.GenerateResource.Cache
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\obj\Debug\rotroRacer.exe
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\obj\Debug\rotroRacer.xml
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\obj\Debug\rotroRacer.pdb
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\obj\Debug\rotroRacer.vbprojResolveAssemblyReference.cache
+C:\Users\zacharym44\AppData\Local\Temporary Projects\rotroRacer\obj\Debug\rotroRacer.frmSelectionMenu.resources
+H:\VB\rotroRacer\rotroRacer\bin\Debug\rotroRacer.exe.config
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.exe
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.xml
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.pdb
+H:\VB\rotroRacer\rotroRacer\bin\Debug\rotroRacer.exe
+H:\VB\rotroRacer\rotroRacer\bin\Debug\rotroRacer.pdb
+H:\VB\rotroRacer\rotroRacer\bin\Debug\rotroRacer.xml
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.vbprojResolveAssemblyReference.cache
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.frmTitlescreen.resources
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.frmSelectionMenu.resources
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.Resources.resources
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.vbproj.GenerateResource.Cache
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.frmShipSelection.resources
+H:\VB\rotroRacer\rotroRacer\obj\Debug\rotroRacer.frmAsteroidDodge.resources
