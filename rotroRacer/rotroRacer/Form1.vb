@@ -1,4 +1,5 @@
-﻿Public Class frmTitlescreen
+'Add a comment to explain the form here﻿
+Public Class frmTitlescreen
     Private Sub tmrFlash_Tick(sender As Object, e As EventArgs) Handles tmrFlash.Tick
         If picFlashystuff.Visible = True Then
             picFlashystuff.Visible = False
